@@ -7,3 +7,4 @@ inhibit_all_warnings!
 
 pod 'AppLovinSDK', '12.2.0'
 pod 'AppLovinMediationUnityAdsAdapter'
+pod 'AppLovinMediationInMobiAdapter'
