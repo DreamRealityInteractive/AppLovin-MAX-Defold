@@ -6,6 +6,8 @@
         <string>{{applovin.ios_user_tracking_usage_description}}</string>
     </dict>
 <dict>
+<key>SKAdNetworkItems</key>
+<array>
 <key>SKAdNetworkIdentifier</key>
 <string>22mmun2rn5.skadnetwork</string>
 </dict>
@@ -593,4 +595,5 @@
 <key>SKAdNetworkIdentifier</key>
 <string>zq492l623r.skadnetwork</string>
 </dict>
+</array>
 </plist>
